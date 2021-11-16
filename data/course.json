@@ -1,0 +1,40 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "959b50e1-a472-aaf8-a14a-4052570850b7",
+      "d8448dbe-58d6-c95a-bc98-25b2575a1fdd",
+      "a0059bf4-2f78-b8d5-ba9c-c83f448f3e0c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Systems, Modeling, and Control II",
+  "course_description": "Upon successful completion of this course, students will be able to:\n\n*   Create lumped parameter models (expressed as ODEs) of simple dynamic systems in the electrical and mechanical energy domains\n*   Make quantitative estimates of model parameters from experimental measurements\n*   Obtain the time-domain response of linear systems to initial conditions and/or common forcing functions (specifically; impulse, step and ramp input) by both analytical and computational methods\n*   Obtain the frequency-domain response of linear systems to sinusoidal inputs\n*   Compensate the transient response of dynamic systems using feedback techniques\n*   Design, implement and test an active control system to achieve a desired performance measure\n\nMastery of these topics will be assessed via homework, quizzes/exams, and lab assignments.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.004",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
